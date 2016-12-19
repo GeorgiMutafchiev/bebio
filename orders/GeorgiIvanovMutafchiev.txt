@@ -1,0 +1,12 @@
+<pre>GeorgiIvanovMutafchiev</pre><pre>goshageto@abv.bg</pre><pre>0895607249</pre><pre>Ulitsa Georgi Kovachev 27</pre><pre><pre>АРТИКУЛИ:</pre>Array
+(
+    [0] => Козе сирене "Козле"
+    [1] => Козе сирене "Козле"
+)
+</pre><pre></pre>ОТНАСЯ СЕ ЗА ЕДИН БРОЙ!
+<pre><pre>ЦЕНА ЗА 1 БРОЙ В ЛВ.</pre>Array
+(
+    [0] => 13.50
+    [1] => 13.50
+)
+</pre>

@@ -1,0 +1,10 @@
+<pre>SimpleTest</pre><pre>georgi.bansko@gmail.com</pre><pre>1234567890</pre><pre>Bansko</pre><pre><pre>АРТИКУЛИ:</pre>Array
+(
+    [0] => Козе сирене "Козле"
+)
+</pre><pre></pre>ОТНАСЯ СЕ ЗА ЕДИН БРОЙ!
+<pre><pre>ЦЕНА ЗА 1 БРОЙ В ЛВ.</pre>Array
+(
+    [0] => 13.50
+)
+</pre>

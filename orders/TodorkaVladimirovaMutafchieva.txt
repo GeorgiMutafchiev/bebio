@@ -1,0 +1,10 @@
+<pre>TodorkaVladimirovaMutafchieva</pre><pre>todorka@mail.bg</pre><pre>0897032410</pre><pre>Bansko Georgi Kovachev 27</pre><pre><pre>АРТИКУЛИ:</pre>Array
+(
+    [0] => Козе сирене "Козле"
+)
+</pre><pre></pre>ОТНАСЯ СЕ ЗА ЕДИН БРОЙ!
+<pre><pre>ЦЕНА ЗА 1 БРОЙ В ЛВ.</pre>Array
+(
+    [0] => 13.50
+)
+</pre>
