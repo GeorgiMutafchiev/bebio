@@ -1,0 +1,512 @@
+body{
+    height: 100vh;
+    background-image: url(../img/grassy2.jpg);
+
+}
+.spisyk ul{
+	position: fixed;
+	width: 100%;
+	height: auto;
+}
+.cats li:hover{
+	background-color: lightgreen;
+}
+.nav1{
+    background-color: transparent;
+}
+.nav2{
+    background-color: white;
+    z-index: 5;
+}
+.bgvideo{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index:-4000;
+	overflow:hidden;
+}
+.nav1 a{
+    color: seagreen;
+    font-family: Century Gothic;
+}
+.nav1 a:hover{
+    color: white;
+}
+.nav1 ul li{
+    transform: skewX(25deg);
+}
+.nav1 ul li a{
+    transform: skewX(-25deg);
+}
+.nav1 ul li:hover{
+   box-shadow: none;
+    background-color: #f6f6f6;
+}
+.nav1 ul li a:hover{
+    box-shadow: none;
+    background: transparent;
+}
+.nav2 a{
+    color: seagreen;
+    font-family: Century Gothic;
+}
+.nav2 a:hover{
+    color: white;
+}
+.nav2 ul li{
+    transform: skewX(25deg);
+}
+.nav2 ul li a{
+    transform: skewX(-25deg);
+}
+.nav2 ul li:hover{
+   box-shadow: none;
+    background-color: darkseagreen;
+}
+.nav2 ul li a:hover{
+    box-shadow: none;
+    background: transparent;
+}
+.logo img{
+    width: 60%;
+    margin-left: 20%;
+    opacity: 0.8;
+}
+.logo img:hover{
+    transform: scale(1.05);
+    opacity: 1.0;
+}
+.aboutUs{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../img/gbg.png);
+    margin-top: 5%;
+}
+.mininav li{
+    transform: skewX(1deg);
+}
+.mininav li a{
+    transform: skewX(1deg);
+}body{
+    height: 100vh;
+}
+.nav1{
+    background-color: transparent;
+}
+.bgvideo{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index:-4000;
+	overflow:hidden;
+}
+.nav1 a{
+    color: white;
+    font-family: Century Gothic;
+}
+.nav1 a:hover{
+    color: seagreen;
+}
+.nav1 ul li{
+    transform: skewX(25deg);
+}
+.nav1 ul li a{
+    transform: skewX(-25deg);
+}
+.nav1 ul li:hover{
+   box-shadow: none;
+    background-color: #f6f6f6;
+}
+.nav1 ul li a:hover{
+    box-shadow: none;
+    background: transparent;
+}
+.logo img{
+    width: 60%;
+    margin-left: 20%;
+    opacity: 0.8;
+}
+.logo img:hover{
+    transform: scale(1.05);
+    opacity: 1.0;
+}
+.logo2 img{
+    width: 100%;
+    margin-top: 25%;
+    opacity: 0.8;
+    padding-bottom: 100%;
+}
+.logo2 img:hover{
+    opacity: 1.0;
+
+}
+.logo3 img{
+    width: 100%;
+    margin-top: 10%;
+    opacity: 0.8;
+    padding-bottom: 15%;
+}
+.logo3 img:hover{
+    opacity: 1.0;
+}
+.aboutUs{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../img/gbg.png);
+}
+.aboutUs2{
+    width: 100%;
+    background-image: url(../img/lightgreenbg.jpg);
+    border-bottom: 5px solid white;
+    color: white;
+}
+.mininav li{
+    transform: skewX(1deg);
+}
+.mininav li a{
+    transform: skewX(1deg);
+}
+.info{
+    width: 50%;
+    margin-left: 25%;
+    font-family: Century Gothic;
+}
+.info2 h6{
+    width: 90%;
+    margin-left: 5%;
+}
+.us{
+    width: 100%;
+    margin-bottom: -2%;
+}
+.me1{
+    margin-top: 5%;
+}
+.more1 i:hover{
+
+    transform: scale(1.2);
+    opacity: 1.0;
+}
+.me1 img{
+    width: 40%;
+
+                	-webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+.me1 h5{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+.more1 i{
+    font-size: 50px;
+    margin-top: 10%;
+    color: seagreen;
+    
+}
+.more a{
+    text-decoration: none;
+}
+.all{
+    background-color: seagreen;
+    width: 100%;
+    height: 100%;
+}
+.brandImg{
+    position: absolute;
+    z-index: 1000000;
+    width: 200px;
+    height: auto;
+    margin-top: 0;
+    margin-left: 2%;
+                    	-webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+.brandImg2{
+    position: absolute;
+    z-index: 1000000;
+    width: 200px;
+    height: auto;
+    margin-top: 0;
+    margin-left: 2%;
+                    	-webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+.brandImg1{
+    position: absolute;
+    z-index: 1000000;
+    width: 120px;
+    height: auto;
+    margin-top: 0;
+    margin-left: 2%;
+                    	-webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+.white{
+    background-image: url(../img/greenbg.png);
+    filter: alpha(opacity=60);
+background-attachment: fixed;
+    width: 100%;
+
+}
+.title2 h2{
+    color: white;
+    font-family: Century Gothic;
+    margin-left: 20%;
+}
+.card{
+    -webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+.collection a{
+    color: black;
+}
+.collection-item:hover {
+    background-color: #f6f6f6;
+}
+.firmi a{
+    color: black;
+}
+.card:hover{
+    background-color: #f6f6f6;
+}
+.infovideo{
+    width: 100%;
+    height: auto;
+}
+.page-footer1{
+    border-top: 5px solid white;
+}
+.page-footer1{
+    background-color: mediumseagreen;
+}
+.footer-info2{
+    background-color: seagreen
+}
+.cat{
+    background-color: lightgray;
+    margin-top: 50px;
+    	-webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+.banner img{
+    width: 100%;
+    height: auto;
+    margin-top: 0px;
+}
+.names p{
+    width: 90%;
+
+    font-family: Century Gothic;
+    color: black;
+}
+.imgr{
+    width: 90%;
+    margin-left: 5%;
+}
+.moreinfo h4{
+    margin-left: 5%;
+}
+.moreinfo p{
+    width: 90%;
+    margin-left: 5%;
+    color: black;
+    font-family: Century Gothic;
+}
+.moreinfo{
+    background-color: aliceblue;
+            	-webkit-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+-moz-box-shadow: 0px 3px 26px -3px rgba(133,133,133,1);
+
+box-shadow: 0px 3px 26px -3px black;
+}
+
+.pic img{
+    width: 80%;
+
+    transform: rotate(45deg);
+    border: 1px solid black;
+    height: auto;
+}
+
+.ppic h4{
+    color: white;
+    position: absolute;
+    z-index: 10;
+    margin-left: 22%;
+    
+    margin-top: 200px;
+    text-shadow: 3px 3px 3px black;
+}
+.ppic img{
+    width: 15%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 90px;
+    position: absolute;
+    z-index: 10;
+    border: 5px solid white;
+    -webkit-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+-moz-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+}
+.ppic_med img{
+    width:30%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 80px;
+    position: absolute;
+    z-index: 10;
+    border: 5px solid white;
+    -webkit-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+-moz-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+}
+.ppic_med h4{
+    text-shadow: 3px 3px 3px black;
+    color: white;
+    position: absolute;
+    z-index: 10;
+    margin-left: 42%;
+    margin-top: 200px;
+}
+.ppic_med2 img{
+    width:30%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 50px;
+    position: absolute;
+    z-index: 10;
+    border: 5px solid white;
+    -webkit-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+-moz-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+}
+.ppic_med2 h4{
+    color: white;
+    position: absolute;
+    z-index: 10;
+    margin-top: 50px;
+    margin-left: 40%;
+    margin-right: 5%;
+    text-shadow: 3px 3px 3px black;
+}
+.e4 h4{
+    color: white;
+    width: 98%;
+    margin-left: 1%;
+    background-color: darkorange;
+    text-shadow: 0px 4px 5px #2e2e2e;
+    border: 4px double white;
+    padding: 1px;
+}
+.mar{
+    margin-top: 70px;
+    position: relative;
+    width: 100%;
+}
+.desc p{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    color: #27541E;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  font-variant: small-caps;
+}
+.desc{
+	color: black;
+	font-size: 20px;
+	font-family: Century Gothic;
+}
+.pp{
+    background-color: rgba(255, 255, 255, 0.2);
+	background: rgba(255, 255, 255, 0.2);
+}
+.maininfo{
+    font-size: 5px;
+	color: white;
+	font-family: Century Gothic;
+    text-shadow: 2px 2px 2px black;
+    width: 100%;
+}
+.mar2{
+    margin-top: 50px;
+    position: relative;
+}
+.imgs{
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+}
+.imgs img{
+            -webkit-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+-moz-box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+
+box-shadow: 0px -8px 21px 0px rgba(0,0,0,0.34);
+}
+.alles{
+    background-image: url(../img/lightgreenbg.jpg);
+    background-attachment: fixed;
+    width: 100%;
+}
+.admincol{
+    background-color: seagreen;
+}
+.category{
+	color: white;
+}
+.bordered{
+	background-color: seagreen;
+	border: 3px solid white;
+}
+.confirm input:hover{
+	background-color: white;
+	color: seagreen;
+}
+.collect{
+
+}
+.productpic img{
+	width: 100%;
+}
+.porychai{
+	color: white;
+	font-size: 25px;
+	font-family: Century Gothic;
+	border: 2px 2px 2px solid white;
+	background-color: seagreen;
+}
